@@ -1,0 +1,23 @@
+section{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background: rgba(0,0,25,0.5);
+    margin: 5% 20%;
+}
+h1{
+    color: brown;
+    padding: 20px 10px;
+}
+h3{
+    color: brown;
+    padding: 10px 0px;
+    text-align: left;
+
+}
+p{
+    text-align: justify;
+}
+img{
+    border-radius: 50%;
+}
