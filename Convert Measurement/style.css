@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    padding: 20px 10px;
+    font-size: larger;
+}
+
+header,nav{
+    text-align: center;
+}
+nav a button{
+    margin: 10px;
+    background-color: gold;
+    color: black;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+img{
+    background-color: antiquewhite;
+}
+#temperature,#weight,#distance{
+    margin: 30px 0px;
+    border: 10px solid green;
+}
+
+figcaption{
+    text-align: center;
+}
+#tmp,#wgt, #dst{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+legend{
+    font-size: 50px;
+}
+article{
+    margin: 5px 30px;
+}
+fieldset{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+fieldset button{
+    color: black;
+    border: none;
+    background-color: greenyellow;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+input[type="number"]{
+    margin: 10px 0px;
+    padding: 5px;
+}
+#go-home{
+    text-align: center;
+    border: 5px solid black;
+    margin: 0px 40%;
+}
+footer{
+    text-align: center;
+    color: wheat;
+    background-color: gray;
+    padding: 100px;
+    margin-top: 20px;
+}
